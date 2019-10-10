@@ -1,0 +1,28 @@
+﻿body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#idCard {
+    margin-top: 6em;
+    display: inline-block;
+    border: 5px solid black;
+    height: 14em;
+    width: 25em;
+    font-family: Verdana;
+    background-color: pink;
+    border-radius: 25px;
+}
+
+#postFullName {
+    float: left;
+    font-size: 30px;
+    margin-right: 11px;
+    margin-bottom: 0px;
+}
